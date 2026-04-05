@@ -1,2 +1,2 @@
 # sample-project-demo
-this is my first sample repositiry
+this is my first sample repository.
